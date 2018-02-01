@@ -83,7 +83,7 @@ headers = {
     'Connection': 'keep-alive',
     'Content-Type': 'application/x-www-form-urlencoded',
     'Host': 'passport.lianjia.com',
-    'Origin': 'https://passport.lianjia.com',
+    'Origin': 'https://bj.lianjia.com',
     'Pragma': 'no-cache',
     'Referer': 'https://passport.lianjia.com/cas/login?service=http%3A%2F%2Fbj.lianjia.com%2F',
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36',
